@@ -1,7 +1,6 @@
 # CommandLinePaytm
 
-![CommandLinePaytm](image/CommandLinePaytm.png)
-
+![CommandLinePaytm](https://socialify.git.ci/tusharnankani/CommandLinePaytm/image?description=1&font=Raleway&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
 
 ### *Contents*
 
@@ -106,8 +105,12 @@ Subclass: C
 * Run the file using the command: `java paytmLite`
 
 
-### Authors
+### *Authors*
 
 * Kavya Nair
 * Parth Namdev
 * Tushar Nankani
+
+### License📜
+
+[MIT License](https://github.com/tusharnankani/CommandLinePaytm/blob/main/LICENSE)
