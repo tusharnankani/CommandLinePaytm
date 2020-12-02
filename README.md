@@ -2,12 +2,12 @@
 
 ### *Contents*
 
-- Introduction
-- Class Diagram
-- Demonstration
-- Final Overview
-- Setting up the project locally
-- Authors
+- [Introduction](#introduction)
+- [Class Diagram](#class-diagram)
+- [Demonstration](#demonstration)
+- [Final Overview](#final-overview)
+- [Setup](#setup)
+- [Authors](#authors)
 
 #### *Introduction*
 
@@ -29,7 +29,8 @@
   paytmLite account. If any one of the credentials from the username or
   password happens to be wrong, it displays the message “Either the
   username or password is incorrect."
-- Credentials:
+
+Credentials:
 
 ```bash
 username: admin
@@ -38,8 +39,7 @@ password: admin123
 
 ![](image/README/1606884522399.png)
 
-- The password is **masked** while typing by using the input function of `console().readPaswword()` This ensures the *safety* of the password and in turn, the safety of the app data itself. On typing the
-  correct username and password, the user is then directed to the app
+- The password is **masked** while typing by using the input function of **`console().readPaswword()`** This ensures the *safety* of the password and in turn, the safety of the app data itself. On typing the correct username and password, the user is then directed to the app
   which first asks for the name and phone number of the user.
 - The user is then provided a choice of: (1) payment to someone (2) Put in money in
   the paytmLite wallet or (3) Exit.
